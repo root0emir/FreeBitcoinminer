@@ -1,0 +1,10 @@
+binascii
+hashlib
+random
+socket
+requests
+threading
+time
+json
+colorama
+signal
