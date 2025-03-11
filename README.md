@@ -36,7 +36,7 @@ Follow these steps to run the tool:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/root0emir/bitcoin-mining.git
+    git clone https://github.com/root0emir/FreeBitcoinminer.git
     cd bitcoin-mining
     ```
 
